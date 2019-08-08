@@ -19,3 +19,11 @@
 |15|08/29|【主催】|[【大阪】スマートスピーカーミーティング 2019/08/29](https://osaka-driven-dev.connpass.com/event/141124/)|札幌、東京、大阪、福岡の4拠点中継|
 |16|09/07|【LT登壇】|[高専カンファレンス in 沖縄](https://connpass.com/event/125312/)|10分|
 |17|09/11|【主催】|[【札幌】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/141406/)||
+
+# Qiita投稿
+|No|日付|内容|備考|
+|:--:|:--:|:--:|:--|
+|1|07/08|[Google Nest Hubでちょまどさんのブログを声で操作してみた 〜Azure Functionsを添えて〜](https://qiita.com/h-takauma/items/25ab6937842d52412ac1)|300view<br/>6いいね|
+|2|07/10|[Alexaスキルアワード2019ハッカソン大阪で作った「ゼロカロリー」の技術を惜しみなく晒してみた](https://qiita.com/h-takauma/items/134856e1f77d7f97c3f5)|2622view<br/>63いいね|
+|3|08/07|[滑舌チェックスキルをGoogle Nest Hubで実装してみた](https://qiita.com/h-takauma/items/16e9b3cc8fc93aa88c82)|300view<br/>3いいね|
+
