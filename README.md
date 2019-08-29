@@ -16,9 +16,10 @@
 |12|08/19|【主催】|[【東京】LINE Clova + enebular + Amazon Connect連携ハンズオン](https://linedevelopercommunity.connpass.com/event/135877/)||
 |13|08/20|【主催】|[ATLabo主催　LINE Things x LINE Pay連携ハンズオンセミナー](https://atlabo.connpass.com/event/140040/)||
 |14|08/21|【主催】|[【増枠】M5StickC + LINE Things + Amazon Connect連携ハンズオン](https://ldgk.connpass.com/event/140572/)||
-|15|08/29|【主催】|[【大阪】スマートスピーカーミーティング 2019/08/29](https://osaka-driven-dev.connpass.com/event/141124/)|札幌、東京、大阪、福岡の4拠点中継|
-|16|09/07|【LT登壇】|[高専カンファレンス in 沖縄](https://connpass.com/event/125312/)|10分|
-|17|09/11|【主催】|[【札幌】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/141406/)||
+|15|08/26|【主催】|[【仙台】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/143205/)||
+|16|08/29|【主催】|[【大阪】スマートスピーカーミーティング 2019/08/29](https://osaka-driven-dev.connpass.com/event/141124/)|札幌、東京、大阪、福岡の4拠点中継|
+|17|09/07|【LT登壇】|[高専カンファレンス in 沖縄](https://connpass.com/event/125312/)|10分|
+|18|09/11|【主催】|[【札幌】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/141406/)||
 
 # Qiita投稿
 |No|日付|内容|備考|
