@@ -19,12 +19,20 @@
 |15|08/26|【主催】|[【仙台】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/143205/)||
 |16|08/29|【主催】|[【大阪】スマートスピーカーミーティング 2019/08/29](https://osaka-driven-dev.connpass.com/event/141124/)|札幌、東京、大阪、福岡の4拠点中継|
 |17|09/07|【LT登壇】|[高専カンファレンス in 沖縄](https://connpass.com/event/125312/)|10分|
-|18|09/11|【主催】|[【札幌】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/141406/)||
+|18|09/10|【LT登壇】|[RPA勉強＆LT会！RPALT札幌 vol.01](https://rpacommunity.connpass.com/event/142706/)|5分 30名参加|
+|19|09/11|【主催】|[【札幌】LINE Bot + Amazon Connect連携ハンズオン](https://atlabo.connpass.com/event/141406/)|9名参加|
+|20|09/20|【主催】|[LINE Developer Group Kansai × UMEDAI 勉強会 vol.1](https://connpass.com/event/145126/)||
+|21|09/24|【主催】|[LINE Clova + enebular + Amazon Connect連携ハンズオン](https://ldgk.connpass.com/event/144555/)||
+|22|09/26|【主催】|[【大阪】スマートスピーカーミーティング 2019/09/26](https://osaka-driven-dev.connpass.com/event/145580/)|札幌、大阪、福岡の3拠点中継|
+|23|10/03|【サポート】|[【東京】LTea Party ~女性登壇LT大会~](https://atlabo.connpass.com/event/145262/)||
+|24|10/03|【サポート】|LINE Payハンズオン||
+|25|10/09|【LT登壇】|[RPA勉強＆LT会！RPALT 大阪 vol.06](https://rpacommunity.connpass.com/event/145049/)||
+|26|10/11|【LT登壇】|[IoTLT Osaka Vol.13](https://iotlt.connpass.com/event/144582/)||
 
 # Qiita投稿
 |No|日付|内容|備考|
 |:--:|:--:|:--:|:--|
-|1|07/08|[Google Nest Hubでちょまどさんのブログを声で操作してみた 〜Azure Functionsを添えて〜](https://qiita.com/h-takauma/items/25ab6937842d52412ac1)|300view<br/>6いいね|
-|2|07/10|[Alexaスキルアワード2019ハッカソン大阪で作った「ゼロカロリー」の技術を惜しみなく晒してみた](https://qiita.com/h-takauma/items/134856e1f77d7f97c3f5)|2622view<br/>63いいね|
-|3|08/07|[滑舌チェックスキルをGoogle Nest Hubで実装してみた](https://qiita.com/h-takauma/items/16e9b3cc8fc93aa88c82)|300view<br/>3いいね|
-
+|1|07/08|[Google Nest Hubでちょまどさんのブログを声で操作してみた 〜Azure Functionsを添えて〜](https://qiita.com/h-takauma/items/25ab6937842d52412ac1)|676view<br/>10いいね|
+|2|07/10|[Alexaスキルアワード2019ハッカソン大阪で作った「ゼロカロリー」の技術を惜しみなく晒してみた](https://qiita.com/h-takauma/items/134856e1f77d7f97c3f5)|3060view<br/>65いいね|
+|3|08/07|[滑舌チェックスキルをGoogle Nest Hubで実装してみた](https://qiita.com/h-takauma/items/16e9b3cc8fc93aa88c82)|742view<br/>4いいね|
+|4|09/17|[電話をかけてRPAを起動してBMI値を書き込んでみた](https://qiita.com/h-takauma/items/9568784f3c37ba73f66c)||
