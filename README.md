@@ -57,7 +57,7 @@
 |:--:|:--:|:--:|:--|:--|
 |1|01/17|【主催】|[LIFF v2とVue.jsを使ってLINEログインを実装してみよう！](https://linedevelopercommunity.connpass.com/event/158244/)|https://atlabo-handson-04.netlify.com/|
 |2|01/23|【主催】|[Google Nest Hub対応スマートディスプレイスキルを作ろう！](https://atlabo.connpass.com/event/157824/)|https://atlabo-handson-03.netlify.com/|
-|3|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)||
+|3|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
 
 
 
