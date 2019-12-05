@@ -48,8 +48,9 @@
 |8|11/19|【主催】|[LINE OCR x UiPath連携ハンズオンセミナー](https://atlabo.connpass.com/event/130469/)|https://atlabo-handson-02.netlify.com/|
 |9|11/19|【主催】|[LINE Pay x LINE Things 連携ハンズオン](https://atlabo.connpass.com/event/149973/)|https://atlabo-handson-01.netlify.com/|
 |10|11/20〜21|【イベントサポート】|[LINE Developer Day 2019](https://linedevday.linecorp.com/jp/2019/)||
-|11|12/07|【主催】|[VoiceUI Nagoya #1](https://connpass.com/event/151291/)|・https://gaomar-handson-01.netlify.com/#0<br/>・https://tokyo-gaomar-05.netlify.com/#0|
-|12|12/11|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.01](https://connpass.com/event/151896/)|http://rpa-handson-01.netlify.com/|
+|11|11/22|【LT登壇】|RPA DEGITAL WORLD Osaka||
+|12|12/07|【主催】|[VoiceUI Nagoya #1](https://connpass.com/event/151291/)|・https://gaomar-handson-01.netlify.com/#0<br/>・https://tokyo-gaomar-05.netlify.com/#0|
+|13|12/11|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.01](https://connpass.com/event/151896/)|http://rpa-handson-01.netlify.com/|
 
 ## Q3
 |No|日付|ポジション|イベント|備考|
