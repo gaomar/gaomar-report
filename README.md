@@ -49,7 +49,14 @@
 |9|11/19|【主催】|[LINE Pay x LINE Things 連携ハンズオン](https://atlabo.connpass.com/event/149973/)|https://atlabo-handson-01.netlify.com/|
 |10|11/20〜21|【イベントサポート】|[LINE Developer Day 2019](https://linedevday.linecorp.com/jp/2019/)||
 |11|12/07|【主催】|[VoiceUI Nagoya #1](https://connpass.com/event/151291/)|・https://gaomar-handson-01.netlify.com/#0<br/>・https://tokyo-gaomar-05.netlify.com/#0|
-|12|12/11|【主催】|[RPALT vol.?? with LINE Developer Community](https://connpass.com/event/151896/)||
+|12|12/11|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.01](https://connpass.com/event/151896/)|http://rpa-handson-01.netlify.com/|
+
+## Q3
+|No|日付|ポジション|イベント|備考|
+|:--:|:--:|:--:|:--|:--|
+|1|01/17|【主催】|[LIFF v2とVue.jsを使ってLINEログインを実装してみよう！](https://linedevelopercommunity.connpass.com/event/158244/)|https://atlabo-handson-04.netlify.com/|
+|2|01/23|【主催】|[Google Nest Hub対応スマートディスプレイスキルを作ろう！](https://atlabo.connpass.com/event/157824/)|https://atlabo-handson-03.netlify.com/|
+|1|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)||
 
 
 
@@ -71,3 +78,4 @@
 |:--:|:--:|:--:|:--|
 |1|10/18|[LIFF v2でLINEログインを試してみた](https://qiita.com/h-takauma/items/f954a6c2a8ad9ee4396b)||
 |2|10/24|[「オッケーグーグル！」でWinActorロボを自動起動させてみた](https://qiita.com/h-takauma/items/3f8fba1813e84f4f084f)||
+|3|12/19|[LIFF v2のLINEログインでセキュアにWinActorを起動してみる](https://qiita.com/h-takauma/items/305efa081522cf8c699b)||
