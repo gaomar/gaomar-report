@@ -27,7 +27,7 @@
 |21|09/24|【主催】|[LINE Clova + enebular + Amazon Connect連携ハンズオン](https://ldgk.connpass.com/event/144555/)|https://tokyo-gaomar-04.netlify.com/|
 |22|09/26|【主催】|[【大阪】スマートスピーカーミーティング 2019/09/26](https://osaka-driven-dev.connpass.com/event/145580/)|札幌、大阪、福岡の3拠点中継|
 |23|10/03|【サポート】|[【東京】LTea Party ~女性登壇LT大会~](https://atlabo.connpass.com/event/145262/)||
-|24|10/03|【サポート】|LINE Payハンズオン||
+|24|10/03|【サポート】|[LINE Payハンズオン](https://ldgk.connpass.com/event/147741/)||
 |25|10/09|【主催】|京都女子大学スマートスピーカーハンズオン|前職の知り合いからアテンド|
 |26|10/09|【LT登壇】|[RPA勉強＆LT会！RPALT 大阪 vol.06](https://rpacommunity.connpass.com/event/145049/)||
 |27|10/11|【LT登壇】|[IoTLT Osaka Vol.13](https://iotlt.connpass.com/event/144582/)||
@@ -57,8 +57,9 @@
 |:--:|:--:|:--:|:--|:--|
 |1|01/17|【主催】|[LIFF v2とVue.jsを使ってLINEログインを実装してみよう！](https://linedevelopercommunity.connpass.com/event/158244/)|https://atlabo-handson-04.netlify.com/|
 |2|01/23|【主催】|[Google Nest Hub対応スマートディスプレイスキルを作ろう！](https://atlabo.connpass.com/event/157824/)|https://atlabo-handson-03.netlify.com/|
-|3|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
-
+|3|01/23|【登壇】|[Ignite The Tour Osaka](https://www.microsoft.com/ja-jp/ignite-the-tour/osaka)||
+|4|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
+|5|01/30|【主催】|[スマートスピーカーミーティング](https://atlabo.connpass.com/event/158957/)|札幌・名古屋・大阪・福岡の４拠点中継|
 
 
 
@@ -77,6 +78,7 @@
 
 |No|日付|内容|備考|
 |:--:|:--:|:--:|:--|
-|1|10/18|[LIFF v2でLINEログインを試してみた](https://qiita.com/h-takauma/items/f954a6c2a8ad9ee4396b)||
-|2|10/24|[「オッケーグーグル！」でWinActorロボを自動起動させてみた](https://qiita.com/h-takauma/items/3f8fba1813e84f4f084f)||
-|3|12/19|[LIFF v2のLINEログインでセキュアにWinActorを起動してみる](https://qiita.com/h-takauma/items/305efa081522cf8c699b)||
+|1|10/18|[LIFF v2でLINEログインを試してみた](https://qiita.com/h-takauma/items/f954a6c2a8ad9ee4396b)|1708view<br/>33いいね|
+|2|10/24|[「オッケーグーグル！」でWinActorロボを自動起動させてみた](https://qiita.com/h-takauma/items/3f8fba1813e84f4f084f)|649view<br/>4いいね|
+|3|12/19|[LIFF v2のLINEログインでセキュアにWinActorを起動してみる](https://qiita.com/h-takauma/items/305efa081522cf8c699b)|179view<br/>6いいね|
+|4|12/19|[LINE ThingsでBeetleC動かしてみた](https://qiita.com/h-takauma/items/5273490a7db042ca6831)|135view<br/>6いいね|
