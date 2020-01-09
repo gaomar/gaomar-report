@@ -56,12 +56,19 @@
 |No|日付|ポジション|イベント|備考|
 |:--:|:--:|:--:|:--|:--|
 |1|01/17|【主催】|[LIFF v2とVue.jsを使ってLINEログインを実装してみよう！](https://linedevelopercommunity.connpass.com/event/158244/)|https://atlabo-handson-04.netlify.com/|
-|2|01/23|【主催】|[Google Nest Hub対応スマートディスプレイスキルを作ろう！](https://atlabo.connpass.com/event/157824/)|https://atlabo-handson-03.netlify.com/|
-|3|01/23|【登壇】|[Ignite The Tour Osaka](https://www.microsoft.com/ja-jp/ignite-the-tour/osaka)||
-|4|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
-|5|01/30|【主催】|[スマートスピーカーミーティング](https://atlabo.connpass.com/event/158957/)|札幌・名古屋・大阪・福岡の４拠点中継|
-
-
+|2|01/18|【LT登壇】|[【VUI FUKUOKA x AAJUG】2020年 Alexaスキル開発を始めよう！](https://vuifukuoka.connpass.com/event/158848/)||
+|3|01/23|【主催】|[Google Nest Hub対応スマートディスプレイスキルを作ろう！](https://atlabo.connpass.com/event/157824/)|https://atlabo-handson-03.netlify.com/|
+|4|01/23|【LT登壇】|[VS Code Meetup #2 - Live Share編(大阪会場)](https://vscode.connpass.com/event/160088/)||
+|5|01/23|【登壇】|[Ignite The Tour Osaka](https://www.microsoft.com/ja-jp/ignite-the-tour/osaka)||
+|6|01/25|【LT登壇】|[Serverless Meetup Kobe #1](https://serverless.connpass.com/event/157159/)||
+|7|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
+|8|01/30|【主催】|[スマートスピーカーミーティング](https://atlabo.connpass.com/event/158957/)|札幌・名古屋・大阪・福岡の４拠点中継|
+|9|02/07|【主催】|M5Stack関西ユーザーミーティング vol.3||
+|10|02/10|【主催】|RPA勉強＆LT会！RPALT ハンズオン支部 vol.02|http://rpa-handson-02.netlify.com/|
+|11|02/20|【主催】|仙台イベント||
+|12|02/25|【主催】|RPA勉強＆LT会！RPALT ハンズオン支部 vol.03（関西女子部）|http://rpa-handson-02.netlify.com/|
+|13|02/28|【主催】|Teachable Machineハンズオン||
+|14|02/29|【出展】|技術書典8|Voiceflow、AAJUG本||
 
 # Qiita投稿
 
