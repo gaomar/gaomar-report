@@ -63,8 +63,8 @@
 |6|01/25|【LT登壇】|[Serverless Meetup Kobe #1](https://serverless.connpass.com/event/157159/)||
 |7|01/28|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/158147/)|https://atlabo-handson-05.netlify.com/|
 |8|01/30|【主催】|[スマートスピーカーミーティング](https://atlabo.connpass.com/event/158957/)|札幌・名古屋・大阪・福岡の４拠点中継|
-|9|02/07|【主催】|M5Stack関西ユーザーミーティング vol.3||
-|10|02/10|【主催】|RPA勉強＆LT会！RPALT ハンズオン支部 vol.02|http://rpa-handson-02.netlify.com/|
+|9|02/07|【主催】|[M5Stack関西ユーザーミーティング vol.3](https://m5stack.connpass.com/event/163026/)||
+|10|02/10|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.02](https://rpacommunity.connpass.com/event/162552/)|http://rpa-handson-02.netlify.com/|
 |11|02/20|【主催】|仙台イベント||
 |12|02/25|【主催】|RPA勉強＆LT会！RPALT ハンズオン支部 vol.03（関西女子部）|http://rpa-handson-02.netlify.com/|
 |13|02/28|【主催】|Teachable Machineハンズオン||
