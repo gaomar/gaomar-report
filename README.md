@@ -65,10 +65,15 @@
 |8|01/30|【主催】|[スマートスピーカーミーティング](https://atlabo.connpass.com/event/158957/)|札幌・名古屋・大阪・福岡の４拠点中継|
 |9|02/07|【主催】|[M5Stack関西ユーザーミーティング vol.3](https://m5stack.connpass.com/event/163026/)||
 |10|02/10|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.02](https://rpacommunity.connpass.com/event/162552/)|http://rpa-handson-02.netlify.com/|
-|11|02/20|【主催】|仙台イベント||
-|12|02/25|【主催】|RPA勉強＆LT会！RPALT ハンズオン支部 vol.03（関西女子部）|http://rpa-handson-02.netlify.com/|
-|13|02/28|【主催】|Teachable Machineハンズオン||
-|14|02/29|【出展】|技術書典8|Voiceflow、AAJUG本||
+|11|02/20|【主催】|[【オンライン】LINEログインを実装してみよう！【Vue.js】](https://atlabo.connpass.com/event/168218/)|https://www.katacoda.com/gaomar/scenarios/liff-v2-handson-playground|
+|12|02/25|【主催】→【中止】|~~RPA勉強＆LT会！RPALT ハンズオン支部 vol.03（関西女子部）~~|http://rpa-handson-02.netlify.com/|
+|13|02/28|【主催】|[【オンライン】Teachable MachineとLINE Botで機械学習を体験しよう！](https://atlabo.connpass.com/event/164450/)|https://www.katacoda.com/gaomar/scenarios/teachablemachine-handson-playground|
+|14|02/29|【出展】→【中止】|~~技術書典8~~ → 応援祭に変更|https://techbookfest.org/product/5687859226869760|
+|15|03/05|【スタッフ】|[LDGK オンラインハンズオン](https://ldgk.connpass.com/event/168001/)|https://www.katacoda.com/gaomar/scenarios/liff-v2-handson-playground|
+|16|03/10|【主催】|[JIFTTT-UG vol.1](https://atlabo.connpass.com/event/169643/)||
+|17|03/13|【主催】|[【オンライン開催】RPA勉強＆LT会！RPALT ハンズオン支部 vol.03](https://rpacommunity.connpass.com/event/166489/)|http://rpa-handson-03.netlify.com/|
+|18|03/17|【主催】|[【オンライン】Amazon Connectで自動応答電話番をつくろう！](https://atlabo.connpass.com/event/169344/)|https://www.katacoda.com/gaomar/scenarios/amazonconnect-handson-playground|
+
 
 # Qiita投稿
 
@@ -89,3 +94,11 @@
 |2|10/24|[「オッケーグーグル！」でWinActorロボを自動起動させてみた](https://qiita.com/h-takauma/items/3f8fba1813e84f4f084f)|649view<br/>4いいね|
 |3|12/19|[LIFF v2のLINEログインでセキュアにWinActorを起動してみる](https://qiita.com/h-takauma/items/305efa081522cf8c699b)|179view<br/>6いいね|
 |4|12/19|[LINE ThingsでBeetleC動かしてみた](https://qiita.com/h-takauma/items/5273490a7db042ca6831)|135view<br/>6いいね|
+
+# Youtube配信
+
+## Q3
+
+|No|日付|内容|備考|
+|:--:|:--:|:--:|:--|
+|1|03/03|[Teachable MachineとLINE Botで機械学習を体験しよう！](https://youtu.be/tN00mqZ_6AE)|
