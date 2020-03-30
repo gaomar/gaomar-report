@@ -73,6 +73,14 @@
 |16|03/10|【主催】|[JIFTTT-UG vol.1](https://atlabo.connpass.com/event/169643/)||
 |17|03/13|【主催】|[【オンライン開催】RPA勉強＆LT会！RPALT ハンズオン支部 vol.03](https://rpacommunity.connpass.com/event/166489/)|http://rpa-handson-03.netlify.com/|
 |18|03/17|【主催】|[【オンライン】Amazon Connectで自動応答電話番をつくろう！](https://atlabo.connpass.com/event/169344/)|https://www.katacoda.com/gaomar/scenarios/amazonconnect-handson-playground|
+|19|03/28|【スタッフ】|[LINE Developer Group Kansaiオンラインハッカソン](https://ldgk.connpass.com/event/171176/)||
+
+
+## Q4
+|No|日付|ポジション|イベント|備考|
+|:--:|:--:|:--:|:--|:--|
+|1|04/06|【主催】|[M5Stackユーザーミーティング番外編【LINE Beacon化ハンズオン】](https://m5stack.connpass.com/event/171519/)|https://www.katacoda.com/gaomar/scenarios/m5stickc-beacon-handson-playground|
+|2|04/13|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/171867/)|https://atlabo-handson-05.netlify.com/|
 
 
 # Qiita投稿
@@ -100,5 +108,10 @@
 ## Q3
 
 |No|日付|内容|備考|
-|:--:|:--:|:--:|:--|
-|1|03/03|[Teachable MachineとLINE Botで機械学習を体験しよう！](https://youtu.be/tN00mqZ_6AE)|
+|:--:|:--:|:--|:--|
+|1|03/03|[Teachable MachineとLINE Botで機械学習を体験しよう！](https://youtu.be/tN00mqZ_6AE)|149再生 14いいね|
+|2|03/13|[WinActor x enebularハンズオン](https://youtu.be/Ie5ecl2xuN4)|180再生 15いいね|
+|3|03/19|[Amazon Connect ハンズオン](https://youtu.be/rzYcHXT6xbA)|78再生 8いいね|
+
+
+
