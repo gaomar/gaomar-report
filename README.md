@@ -138,4 +138,7 @@
 |9|06/19|[Actions Builderでサイコロトーク作ってみた](https://youtu.be/261Cm8p6jyA)|49再生 2いいね|
 |10|05/25|[Makecode Arcadeハンズオン](https://youtu.be/9h3Th4OsDMU)|51再生 5いいね|
 
-
+# その他
+|No|日付|内容|備考|
+|:--:|:--:|:--|:--|
+|1|06/05|[M5Stack&M5StickCではじめるIoT入門](https://www.amazon.co.jp/dp/4863543123) 発売||
