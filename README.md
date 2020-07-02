@@ -81,7 +81,12 @@
 |:--:|:--:|:--:|:--|:--|
 |1|04/06|【主催】|[M5Stackユーザーミーティング番外編【LINE Beacon化ハンズオン】](https://m5stack.connpass.com/event/171519/)|https://www.katacoda.com/gaomar/scenarios/m5stickc-beacon-handson-playground|
 |2|04/13|【主催】|[LINEのチャットボットを作ろう！](https://atlabo.connpass.com/event/171867/)|https://atlabo-handson-05.netlify.com/|
-
+|3|04/23|【主催】|[RPA勉強＆LT会！RPALT ハンズオン支部 vol.04](https://rpacommunity.connpass.com/event/172664/)|https://www.katacoda.com/gaomar/scenarios/uipath-ifttt-playground|
+|4|04/28|【主催】|[LINEでアプリ開発に必要なLIFFの基礎を体験しよう！ for ミニアプリ](https://linedevelopercommunity.connpass.com/event/173276/)|https://www.katacoda.com/gaomar/scenarios/liff-v2-handson-playground|
+|5|05/18|【主催】|[AppSheetでスマホアプリを作ろう！](https://atlabo.connpass.com/event/175188/)|https://atlabo-handson-07.netlify.app/|
+|6|06/02|【主催】|[Teachable MachineとLINE Botで機械学習を体験しよう！](https://linedevelopercommunity.connpass.com/event/176776/)|https://www.katacoda.com/gaomar/scenarios/teachablemachine-linebot-node-red-playground|
+|7|06/11|【LT】|[コストをかけずに業務効率化するRPA](https://enebular.connpass.com/event/177332/)|https://docs.google.com/presentation/d/1JcNgT3aynFGfV1PJU_-y3KDAB6aEH-8oHKIuYpRHyCU/edit?usp=sharing|
+|8|06/25|【主催】|[Makecode Arcadeでオリジナルゲームをつくろう！](https://atlabo.connpass.com/event/179203/)|https://speakerdeck.com/gaomar/makecodearcade-0625|
 
 # Qiita投稿
 
@@ -103,6 +108,12 @@
 |3|12/19|[LIFF v2のLINEログインでセキュアにWinActorを起動してみる](https://qiita.com/h-takauma/items/305efa081522cf8c699b)|179view<br/>6いいね|
 |4|12/19|[LINE ThingsでBeetleC動かしてみた](https://qiita.com/h-takauma/items/5273490a7db042ca6831)|135view<br/>6いいね|
 
+## Q4
+|No|日付|内容|備考|
+|:--:|:--:|:--|:--|
+|1|06/19|[Actions Builderでサイコロトークを作ってみた](https://qiita.com/h-takauma/items/aa3c2e84a8cc1e0d9e33)|264View<br/>1いいね|
+|2|06/23|[Dialogflow Messengerで用意されているレスポンスをDenoで返してみた](https://qiita.com/h-takauma/items/36f430663c119971d1d6)|192View<br/>3いいね|
+
 # Youtube配信
 
 ## Q3
@@ -113,5 +124,18 @@
 |2|03/13|[WinActor x enebularハンズオン](https://youtu.be/Ie5ecl2xuN4)|180再生 15いいね|
 |3|03/19|[Amazon Connect ハンズオン](https://youtu.be/rzYcHXT6xbA)|78再生 8いいね|
 
+## Q4
+|No|日付|内容|備考|
+|:--:|:--:|:--|:--|
+|1|04/07|[M5StickCをLINE Beacon化ハンズオン](https://youtu.be/AV-bpop9yfA)|283再生 9いいね|
+|2|04/13|[Dialogflow x LINEチャットボットハンズオン](https://youtu.be/P77Yxwho-Zw)|271再生 15いいね|
+|3|04/24|[UiPath x IFTTTハンズオン](https://youtu.be/sYS6fuIqgfM)|43再生 1いいね|
+|4|04/28|[LIFF v2ハンズオン](https://youtu.be/OgLB2QZ-ypM)|433再生 20いいね|
+|5|05/15|[M5Atom Matrix開封の儀](https://youtu.be/Kza6XSjiy-U)|61再生 1いいね|
+|6|05/18|[AppSheetハンズオン](https://youtu.be/EsZD2lkPevA)|152再生 7いいね|
+|7|06/02|[Teachable Machine x LINE Bot x Node-REDハンズオン](https://youtu.be/4zM6vnNyh7A)|182再生 13いいね|
+|8|06/11|[Meowbit開封の儀](https://youtu.be/rGE0VLJje0E)|41再生 3いいね|
+|9|06/19|[Actions Builderでサイコロトーク作ってみた](https://youtu.be/261Cm8p6jyA)|49再生 2いいね|
+|10|05/25|[Makecode Arcadeハンズオン](https://youtu.be/9h3Th4OsDMU)|51再生 5いいね|
 
 
