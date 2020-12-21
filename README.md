@@ -44,6 +44,14 @@
 
 |No|日付|内容|備考|
 |:--:|:--:|:--:|:--|
+|1|10/14|[Power AutomateでLINEに投稿された画像のbase64文字列を取得する](https://qiita.com/h-takauma/items/8fc68853d91011844331)||
+|2|10/19|[EnOceanとNode-REDとobnizでトイレセンサー作ってみた](https://qiita.com/h-takauma/items/2f02d590b95def921ce6)||
+|3|10/23|[Dialogflow CXでオウム返しを試してみた](https://qiita.com/h-takauma/items/ebef0e8212c870c0ca09)||
+|4|10/28|[LobeとNode-REDでメガネチェッカーをノーコーディングで作ってみた](https://qiita.com/h-takauma/items/cd51dc1d8590538765f0)||
+|5|11/09|[PayPay決済体験ハンズオン](https://qiita.com/h-takauma/items/d031acc8e7a425da9a68)||
+|6|11/13|[ローコードでマスクチェッカーを作ろう！](https://qiita.com/h-takauma/items/452fa9286cca402117ca)||
+|7|11/13|[Dialogflowで湯婆婆を実装してみる](https://qiita.com/h-takauma/items/b9bae322a9c29f9c7b27)||
+|8|11/13|[enebularで湯婆婆を実装してみる](https://qiita.com/h-takauma/items/7a4aabe8af04ecc2c5e8)||
 
 ## Q4
 |No|日付|内容|備考|
@@ -57,11 +65,14 @@
 |1|07/07|[Scratchでじゃんけんゲーム](https://youtu.be/2dP_vacwSsE)||
 |2|07/09|[Deno x Dialogflowハンズオン](https://youtu.be/nEWwm4Hw7lI)||
 |3|07/13|[Power Automate x LINE Botオウム返しデモ](https://youtu.be/BDPD0Mt8iHc)||
+|4|07/22|[Power Automate RPAオンラインセミナー](https://youtu.be/TUoIZelL2ho)||
 
 ## Q2
 
 |No|日付|内容|備考|
 |:--:|:--:|:--|:--|
+|1|09/28|[Power Platoformを活用したDX推進ウェビナー](https://youtu.be/AWJqcGXx3_Y)||
+|2|10/27|[AI-OCRを活用したDX推進ウェビナー](https://youtu.be/3xwKkQrT73Y)||
 
 ## Q3
 
